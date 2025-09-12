@@ -6,7 +6,7 @@
 <details>
   <summary>N3v3r cl1ck 0n m3</summary>
 
-![meme](assets/meme.png)
+![meme](assets/meme.PNG)
 
 </details>
 
