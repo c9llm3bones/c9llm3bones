@@ -1,6 +1,5 @@
-# Константин Костиков — ML struggler  🧠🔧🕳️
+# Kostya Kostikov — ML struggler  
 
-> Студент 4 курса ПМИ МГТУ им. Баумана 
 
 
 <details>
